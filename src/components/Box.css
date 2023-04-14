@@ -2,17 +2,16 @@
   background-color: #ffffff;
   border: none;
   border-radius: 20%;
-  box-shadow: 20px 20px 40px #6e6969;
-  width: 7rem;
-  height: 7rem;
-
+  box-shadow: 12px 12px 15px #6e6969;
+  width: 4.5rem;
+  height: 4.5rem;
 
   text-align: center;
-  font-size: 6.5em;
+  font-size: 4em;
   font-family: "Fredoka", sans-serif;
   font-weight: 900;
-  line-height: 4rem;
-  margin: 0.9rem;
+  line-height: 2rem;
+  margin: 0.35rem;
 }
 
 .x {
