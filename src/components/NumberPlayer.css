@@ -1,4 +1,4 @@
-.reset-btn {
+.rbtn {
   border: none;
   border-radius: 1.2rem;
   background-color: rgb(7, 157, 45);
@@ -10,6 +10,6 @@
   display: block;
 }
 
-.redo-btn:hover {
+.rbtn:hover {
   background-color: rgb(9, 102, 24);
 }

@@ -62,19 +62,38 @@ body {
   background: linear-gradient(to right, pink 0%, pink 50%, cyan 50%, cyan 100%);
 }
 
-.head_title {
+.about {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-evenly;
-  width: 30rem;
-  font-size: 3.5rem;
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 2rem;
   font-family: sans-serif;
   background-color: rgb(234, 239, 245);
-  margin: 4rem auto;
+  margin: 2rem auto;
   box-shadow: 15px 15px 20px #6e6969;
   border-radius: 0.8rem;
   font-weight: bold;
+}
+
+.developers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 3rem;
+  font-family: sans-serif;
+  background-color: rgb(234, 239, 245);
+  margin: 3.5% auto;
+  box-shadow: 15px 15px 20px #6e6969;
+  border-radius: 0.8rem;
+  font-weight: bold;
+}
+h4 {
+  padding: 0.6rem 2rem 0.6rem 2rem;
 }
 .scoreboard {
   display: flex;
